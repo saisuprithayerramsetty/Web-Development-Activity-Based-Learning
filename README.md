@@ -1,7 +1,9 @@
 # Web-Development-Activity-Based-Learning
 
-Name : YERRAMSETTY SAI SUPRITHA
+NAME : YERRAMSETTY SAI SUPRITHA
+
 BRANCH : CYBER SECURITY
+
 ROLLNO : 26001865
 
 Activities titles
